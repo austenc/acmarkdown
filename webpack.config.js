@@ -31,5 +31,5 @@ module.exports = {
     extensions: ['.js', '.vue']
   },
 
-  externals: ['vue']
+  externals: ['vue', 'lodash']
 };
